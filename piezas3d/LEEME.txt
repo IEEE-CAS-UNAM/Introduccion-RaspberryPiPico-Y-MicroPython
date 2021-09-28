@@ -1,0 +1,11 @@
+Esperamos que hayas disfrutado el taller, además de los códigos,
+queremos compartirte los modelos 3d utilizados para crear la maqueta
+del sistema de posicionamiento angular, lo recomendable es usar fusion 360
+para que puedas modificar algunas dimensiones en caso de ser necesario, de 
+esta manera podrás imprimir tus pieszas en 3D y recrear el sistema por completo.
+
+Ojalá podamos verte de vuelta en alguna otra actividad que realice el capítulo 
+estudiantil IEEE CAS UNAM.
+
+ATTE: URIEL 
+
